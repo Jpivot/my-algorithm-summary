@@ -1,4 +1,4 @@
-package list;
+package com.aronson.list;
 
 /**
  * 合并k个有序链表，第23题

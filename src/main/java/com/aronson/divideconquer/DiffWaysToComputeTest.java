@@ -1,4 +1,4 @@
-package divideconquer;
+package com.aronson.divideconquer;
 
 import java.util.LinkedList;
 import java.util.List;

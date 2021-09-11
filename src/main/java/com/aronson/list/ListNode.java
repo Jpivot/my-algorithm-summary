@@ -1,4 +1,4 @@
-package list;
+package com.aronson.list;
 
 public class ListNode {
     int val;

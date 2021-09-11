@@ -1,4 +1,4 @@
-package greedy;
+package com.aronson.greedy;
 
 import java.util.ArrayList;
 import java.util.List;

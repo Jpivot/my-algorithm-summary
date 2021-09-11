@@ -1,4 +1,4 @@
-package binarytree;
+package com.aronson.heap;
 
 public class TreeNode {
     int val;

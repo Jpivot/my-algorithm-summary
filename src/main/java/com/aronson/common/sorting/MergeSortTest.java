@@ -1,4 +1,4 @@
-package common.sorting;
+package com.aronson.common.sorting;
 
 import java.util.Arrays;
 import java.util.Collections;

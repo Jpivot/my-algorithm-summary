@@ -1,4 +1,4 @@
-package heap;
+package com.aronson.heap;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;

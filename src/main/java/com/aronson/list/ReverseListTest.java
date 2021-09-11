@@ -1,4 +1,4 @@
-package list;
+package com.aronson.list;
 
 import java.util.Stack;
 

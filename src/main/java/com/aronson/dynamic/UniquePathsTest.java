@@ -1,4 +1,4 @@
-package dynamic;
+package com.aronson.dynamic;
 
 public class UniquePathsTest {
     public static int uniquePaths(int m, int n) {
